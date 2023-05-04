@@ -565,7 +565,14 @@ progress {
   padding-left: 0;
   list-style: none;
 }
-
+.img-run{
+	width:67px !important;
+}
+@media (min-width: 768px) {
+	.img-run{
+	width:156px !important;
+	}
+}
 .list-inline {
   padding-left: 0;
   list-style: none;
